@@ -183,3 +183,6 @@
 
   
 这些文档旨在帮助系统化理解这些关键技术概念，为编程和架构设计提供坚实的理论基础。
+
+# Additional
+[https://golang.design/go-questions/interface/duck-typing/](https://github.com/golang-design/Go-Questions)
